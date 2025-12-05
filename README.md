@@ -1,6 +1,7 @@
 # NeoRAG: Advanced Retrieval-Augmented Generation System
 Hệ thống NeoRAG được thiết kế với kiến trúc RAG tiên tiến, tích hợp nhiều kỹ thuật tối ưu hóa để nâng cao hiệu suất retrieval và generation.
-
+## 🎥 Video Demo
+https://github.com/user-attachments/assets/f1eb3ec0-1dab-4832-880c-ca89a4443861
 ## 📊 Sơ đồ kiến trúc
 
 ```mermaid
@@ -21,13 +22,6 @@ graph TD
     writer/palmyra-med-70b"]
     G --> H[Final Answer]
 ```  
-
-## 🎥 Video Demo
-
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
-
 ## 🎯 Giới thiệu về kiến trúc
 
 **NeoRAG** là hệ thống RAG (Retrieval-Augmented Generation) được tối ưu hóa đặc biệt cho domain câu lạc bộ lập trình ProPTIT. Hệ thống kết hợp nhiều kỹ thuật tiên tiến:
