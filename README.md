@@ -22,6 +22,12 @@ graph TD
     G --> H[Final Answer]
 ```  
 
+## 🎥 Video Demo
+
+<video width="640" height="360" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
+
 ## 🎯 Giới thiệu về kiến trúc
 
 **NeoRAG** là hệ thống RAG (Retrieval-Augmented Generation) được tối ưu hóa đặc biệt cho domain câu lạc bộ lập trình ProPTIT. Hệ thống kết hợp nhiều kỹ thuật tiên tiến:
